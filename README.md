@@ -47,7 +47,7 @@ whoami:
 
 **Langages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,php,js,ts,bash,htlm,css,markdown,latex&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,php,js,ts,bash,html,css,markdown,latex&theme=dark" /><br>
 
 <br><br>
 
@@ -59,7 +59,7 @@ whoami:
 
 **Outils, DevOps & Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,electron,supabase,firebase,mysql,sqlite,vercel,postman,vscode,androidstudio,eclipse,tensorflow,pytorch,anaconda,matlab,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,kali,git,electron,supabase,firebase,mysql,sqlite,vercel,postman,vscode,androidstudio,eclipse,tensorflow,pytorch,anaconda,matlab,raspberrypi&theme=dark" />
 
 </div>
 
