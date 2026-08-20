@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Bannière animée type "capsule-render" : bien plus propre qu'un gif -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:E50914&height=220&section=header&text=KOUASSI%20DE%20YOBO%20G.%20BRYANN&fontSize=42&fontColor=E50914&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%" alt="Banner"/>
+  <!-- Bannière The Batman (Rouge & Noir - Format parfait pour GitHub) -->
+  <img src="https://images.hdqwalls.com/download/the-batman-2022-4k-8a-1500x500.jpg" width="100%" style="border-radius: 15px" alt="Batman Banner"/>
 
-<!-- Typing SVG : signature dynamique, remplace le sous-titre statique -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%22I+am+not+talented%2C+I+am+passionately+curious%22;Building+%26+breaking+things+since+day+one;Currently+diving+into+Offensive+%26+Defensive+Security&font=Fira+Code&center=true&width=650&height=45&color=E50914&vCenter=true&size=20&pause=1500&background=00000000" alt="Typing SVG" />
-</a>
+  <br><br>
+
+  <h1>KOUASSI DE YOBO G. BRYANN - K2Y</h1>
+
+  <!-- Typing SVG : signature dynamique -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%22I+am+not+talented%2C+I+am+passionately+curious%22;Building+%26+breaking+things+since+day+one;Currently+diving+into+Offensive+%26+Defensive+Security&font=Fira+Code&center=true&width=650&height=45&color=E50914&vCenter=true&size=20&pause=1500&background=00000000" alt="Typing SVG" />
+  </a>
 
 <br>
 
