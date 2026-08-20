@@ -69,12 +69,12 @@ whoami:
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryann-coder&show_icons=true&theme=dark&bg_color=0D1117&title_color=E50914&icon_color=E50914&border_color=E50914&text_color=C9D1D9&ring_color=E50914&hide_border=false" alt="K2Y Stats" width="49%">
+  <img src="https://github-readme-stats-dracula.vercel.app/api?username=Bryann-coder&show_icons=true&theme=dark&bg_color=0D1117&title_color=E50914&icon_color=E50914&border_color=E50914&text_color=C9D1D9&ring_color=E50914&hide_border=false" alt="K2Y Stats" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryann-coder&theme=dark&background=0D1117&border=E50914&stroke=E50914&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="49%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryann-coder&layout=compact&theme=dark&bg_color=0D1117&title_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats-dracula.vercel.app/api/top-langs/?username=Bryann-coder&layout=compact&theme=dark&bg_color=0D1117&title_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false" alt="Top Languages" width="49%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryann-coder&theme=react-dark&bg_color=0D1117&color=E50914&line=E50914&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" width="49%">
 </div>
 
