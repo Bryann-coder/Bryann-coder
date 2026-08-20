@@ -1,86 +1,87 @@
 <div align="center">
-  <!-- Bannière The Batman (Rouge & Noir) haute résolution -->
-  <img src="https://i.pinimg.com/originals/a0/62/0e/a0620e2380f2d48bfbcba313ee440538.gif" width="100%" alt="Batman Banner">
-  <br><br>
 
-  <h1>KOUASSI DE YOBO G. BRYANN (K2Y)</h1>
-  <h3>💻 Computer Engineer | 🛡️ Cybersecurity Enthusiast</h3>
-  <p><i>"I am not talented, I am passionately curious"</i></p>
+<!-- Bannière animée type "capsule-render" : bien plus propre qu'un gif -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:E50914&height=220&section=header&text=KOUASSI%20DE%20YOBO%20G.%20BRYANN&fontSize=42&fontColor=E50914&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%" alt="Banner"/>
 
-  <p align="center">
-    <a href="https://cm.linkedin.com/in/gilbert-bryan-kouassi-de-yobo-464431292"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn"></a>
-    <a href="https://k2y.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E50914" alt="Portfolio"></a>
-    <a href="mailto:yobobryan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E50914" alt="Email"></a>
-  </p>
+<!-- Typing SVG : signature dynamique, remplace le sous-titre statique -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%22I+am+not+talented%2C+I+am+passionately+curious%22;Building+%26+breaking+things+since+day+one;Currently+diving+into+Offensive+%26+Defensive+Security&font=Fira+Code&center=true&width=650&height=45&color=E50914&vCenter=true&size=20&pause=1500&background=00000000" alt="Typing SVG" />
+</a>
+
+<br>
+
+<p align="center">
+  <a href="https://cm.linkedin.com/in/gilbert-bryan-kouassi-de-yobo-464431292">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn">
+  </a>
+  <a href="https://k2y.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E50914" alt="Portfolio">
+  </a>
+  <a href="mailto:yobobryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E50914" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Bryann-coder&style=for-the-badge&color=E50914&label=Vues+du+profil" alt="Profile views">
+</p>
+
 </div>
 
 <br>
 
-## 🕵️‍♂️ Who am I?
+## 🕵️‍♂️ À propos de moi
 
-| | |
-| :--- | :--- |
-| 🔭 **Working on** | **TOUT** (I build and experiment with everything) |
-| 🌱 **Learning** | **Cybersecurity** (Defensive & Offensive) |
-| 👯 **Collaborating on**| **HomeLab** et **Cloud Architecture** |
-| 💬 **Ask me about** | My engineering projects, AI agents, or Networks |
-| ⚡ **Fun Fact** | I have plenty of similitudes with TDAH persons! |
-
-<br>
-
-## 🛠️ My Tech Arsenal
-
-<details>
-  <summary><b>👨‍💻 Langages de programmation</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=E50914" alt="Python">
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=E50914" alt="C">
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=E50914" alt="C++">
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E50914" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=E50914" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E50914" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=E50914" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=E50914" alt="Bash">
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=E50914" alt="SQL">
-  <img src="https://img.shields.io/badge/ASM-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=E50914" alt="ASM">
-</details>
-
-<details>
-  <summary><b>🚀 Frameworks & Librairies</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=E50914" alt="Django">
-  <img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=E50914" alt="Spring">
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=E50914" alt="Laravel">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=E50914" alt="NodeJS">
-  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E50914" alt="NestJS">
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E50914" alt="NextJS">
-  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=E50914" alt="Angular">
-  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=E50914" alt="Vue">
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=E50914" alt="Vite">
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=E50914" alt="Tailwind">
-</details>
-
-<details>
-  <summary><b>🔧 Outils, DevOps & Databases</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=E50914" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E50914" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E50914" alt="Git">
-  <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=E50914" alt="Electron">
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=E50914" alt="Supabase">
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=E50914" alt="Firebase">
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=E50914" alt="MySQL">
-</details>
+```yaml
+whoami:
+  role: "Ingénieur Informatique 🎓"
+  focus: "Cybersécurité (Offensive & Defensive)"
+  currently_working_on: "Un peu de tout — j'aime construire et expérimenter"
+  collaborating_on: ["HomeLab", "Cloud Architecture"]
+  ask_me_about: ["Projets d'ingénierie", "Agents IA", "Réseaux"]
+  fun_fact: "Beaucoup de similitudes avec les profils TDAH ⚡"
+```
 
 <br>
 
-## 📊 GitHub Analytics
+## 🛠️ Arsenal Technique
 
 <div align="center">
-  <!-- Stats globales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryann-coder&show_icons=true&theme=dark&bg_color=0D1117&title_color=E50914&icon_color=E50914&border_color=E50914&text_color=C9D1D9&ring_color=E50914" alt="K2Y Stats" width="48%">
-  <!-- Top Langages (Camembert) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryann-coder&layout=pie&theme=dark&bg_color=0D1117&title_color=E50914&text_color=C9D1D9&border_color=E50914" alt="Top Languages" width="48%">
+
+**Langages**
+<br>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,php,js,ts,bash&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<br><br>
+
+**Frameworks & Librairies**
+<br>
+<img src="https://skillicons.dev/icons?i=django,spring,laravel,nodejs,nestjs,nextjs,angular,vue,vite,tailwind&theme=dark" />
+
+<br><br>
+
+**Outils, DevOps & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,electron,supabase,firebase,mysql&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryann-coder&show_icons=true&theme=dark&bg_color=0D1117&title_color=E50914&icon_color=E50914&border_color=E50914&text_color=C9D1D9&ring_color=E50914&hide_border=false" alt="K2Y Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryann-coder&theme=dark&background=0D1117&border=E50914&stroke=E50914&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="49%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryann-coder&layout=compact&theme=dark&bg_color=0D1117&title_color=E50914&text_color=C9D1D9&border_color=E50914&hide_border=false" alt="Top Languages" width="49%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryann-coder&theme=react-dark&bg_color=0D1117&color=E50914&line=E50914&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" width="49%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bryann-coder&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies">
 </div>
 
 <br>
@@ -101,22 +102,18 @@
 
 <br>
 
-## 🎧 Currently Playing
-<!-- Widget Spotify avec couleur rouge dominante -->
+## 🐍 Activité de contribution
+
 <div align="center">
-  <a href="https://open.spotify.com/user/TON_ID_SPOTIFY">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=TON_ID_SPOTIFY&cover_image=true&theme=novatorem&bar_color=e50914&bar_color_cover=false" alt="Spotify Now Playing">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryann-coder/Bryann-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryann-coder/Bryann-coder/output/github-contribution-grid-snake.svg">
+    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/Bryann-coder/Bryann-coder/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
 
-## 🐍 Contribution Graph (Dark/Red Snake)
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryann-coder/Bryann-coder/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryann-coder/Bryann-coder/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bryann-coder/Bryann-coder/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:E50914&height=100&section=footer" width="100%"/>
 </div>
