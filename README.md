@@ -59,7 +59,7 @@ whoami:
 
 **Outils, DevOps & Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,kali,git,electron,supabase,firebase,mysql,sqlite,vercel,postman,vscode,androidstudio,eclipse,tensorflow,pytorch,anaconda,matlab,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,kali,git,electron,supabase,firebase,gradle,maven,nginx,mysql,sqlite,vercel,postman,vscode,androidstudio,eclipse,tensorflow,pytorch,anaconda,matlab,raspberrypi&theme=dark" />
 
 </div>
 
