@@ -47,20 +47,19 @@ whoami:
 
 **Langages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,php,js,ts,bash&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,php,js,ts,bash,htlm,css,markdown,latex&theme=dark" /><br>
 
 <br><br>
 
 **Frameworks & Librairies**
 <br>
-<img src="https://skillicons.dev/icons?i=django,spring,laravel,nodejs,nestjs,nextjs,angular,vue,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,spring,laravel,nodejs,nestjs,nextjs,angular,vue,vite,tailwind,threejs&theme=dark" />
 
 <br><br>
 
 **Outils, DevOps & Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,electron,supabase,firebase,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,electron,supabase,firebase,mysql,sqlite,vercel,postman,vscode,androidstudio,eclipse,tensorflow,pytorch,anaconda,matlab,raspberrypi&theme=dark" />
 
 </div>
 
