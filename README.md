@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Bannière The Batman (Rouge & Noir - Format parfait pour GitHub) -->
-  <img src="banner.jpg" width="100%" style="border-radius: 15px" alt="Batman Banner"/>
+  <img src="banner.jpg.png" width="100%" style="border-radius: 15px" alt="Batman Banner"/>
 
   <br><br>
 
